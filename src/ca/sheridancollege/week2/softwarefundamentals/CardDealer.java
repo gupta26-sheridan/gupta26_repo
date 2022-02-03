@@ -19,5 +19,7 @@ public class CardDealer
         Card tenClubs = new Card("Clbs", 10);
         System.out.println("Suit: " + tenClubs.getSuit() + "\n" 
                          + "Value: " + tenClubs.getValue() );
+        Card fourClubs = new Card("Clbs", 4);
+        
     }
 }
