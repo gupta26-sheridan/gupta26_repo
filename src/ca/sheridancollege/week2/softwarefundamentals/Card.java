@@ -6,7 +6,6 @@
 package ca.sheridancollege.week2.softwarefundamentals;
 
 /**
- * Ram Gupta 
  * A class to model Card Objects.
  * Created in Week 2 for the cloning repository demo
  * @author dancye, 2019
